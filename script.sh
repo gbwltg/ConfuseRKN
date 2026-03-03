@@ -394,7 +394,7 @@ print_header() {
     echo ""
     echo "  Project by GoodbyeWL. Thanks for participating in the fight for open and free internet."
     echo "  Sources: EtoNeYaProject, BypassWhitelistRu (LowiKLive) — fighting Roskomnadzor, helping users browse as before."
-    echo "  Updates: GitHub GoodbyeWL | Telegram @GoodbyeWLAlt"
+    echo "  Updates: GitHub gbwltg/ConfuseRKN | Telegram @GoodbyeWLAlt"
     echo ""
 }
 
