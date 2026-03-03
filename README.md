@@ -44,14 +44,6 @@ Script to run your own whitelist subscription, similar to **GoodbyeWL** or **Eto
 
 ## Quick Start
 
-**One-liner** (download and run):
-
-```bash
-curl -sSL https://raw.githubusercontent.com/gbwltg/ConfuseRKN/refs/heads/main/script.sh | sudo bash
-```
-
-**Or** download first, then run:
-
 ```bash
 curl -sSL https://raw.githubusercontent.com/gbwltg/ConfuseRKN/refs/heads/main/script.sh -o confuserkn.sh
 sudo bash confuserkn.sh
@@ -66,10 +58,6 @@ Select **[1] First install** → follow prompts → share your subscription URL.
 1. **Download** and run:
 
    ```bash
-   # Option A: one-liner
-   curl -sSL https://raw.githubusercontent.com/gbwltg/ConfuseRKN/refs/heads/main/script.sh | sudo bash
-
-   # Option B: download file, then run
    curl -sSL https://raw.githubusercontent.com/gbwltg/ConfuseRKN/refs/heads/main/script.sh -o confuserkn.sh
    sudo bash confuserkn.sh
    ```
@@ -182,5 +170,5 @@ This script downloads and installs packages, tools, and libraries (e.g. Python, 
 
 ## Links
 
-- **GitHub:** [GoodbyeWL](https://github.com/gbwltg/ConfuseRKN/)
+- **GitHub:** [GoodbyeWL](https://github.com/gbwltg/ConfuseRKN)
 - **Telegram:** [@GoodbyeWLAlt](https://t.me/GoodbyeWLAlt)
